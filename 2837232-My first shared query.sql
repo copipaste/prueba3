@@ -1,1 +1,1 @@
-select * from admin
+create database copipaste
